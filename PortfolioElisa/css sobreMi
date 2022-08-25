@@ -1,0 +1,32 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  color: rgb(255, 255, 255);
+  background: #f2f2f2; 
+}
+
+/*pruebo a cambiar de px a rem para probar con sistema responsivo (16 px=1rem)*/
+.contact {
+  background-color: #ffffff;
+  background-size: cover;
+  /*height:100%;*/
+  width: 100%;
+  padding-top: 4,3rem;
+  padding-bottom: 5rem;
+  margin-bottom: 6,25rem;
+}
+
+.enlaces { 
+  margin-top: 6,25rem;
+}
+
+.skills {
+  margin: 0;
+  padding: 0;
+  color: rgb(255, 255, 255);
+  background: #f2f2f2; 
+}
+
+
+        

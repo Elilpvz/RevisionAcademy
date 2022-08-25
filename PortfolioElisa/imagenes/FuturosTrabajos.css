@@ -1,0 +1,25 @@
+
+
+
+  .boton {
+    border: 1px solid #ecadf8; /*anchura, estilo y color borde*/
+    padding: 10px; /*espacio alrededor texto*/
+    background-color: #fda6f7; /*color botón*/
+    color: #ffffff; /*color texto*/
+    text-decoration: none; /*decoración texto*/
+    text-transform: uppercase; /*capitalización texto*/
+    font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+    border-radius: 50px; /*bordes redondos*/
+    } 
+
+
+
+body {
+  height: 955px;
+  background-image: url("https://softwareone-my.sharepoint.com/personal/elisa_lopez_softwareone_com/Documents/Escritorio/Proyectos.png?Web=1");
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-position: center center;
+}
+
+

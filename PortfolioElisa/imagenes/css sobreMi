@@ -1,0 +1,54 @@
+
+
+
+/* #main-header {
+  background: rgb(255, 255, 255);
+  color: white;
+  height: 80px;
+  
+  width: 100%; /* hacemos que la cabecera ocupe el ancho completo de la página */
+  /*left: 0; /* Posicionamos la cabecera al lado izquierdo */
+  /*top: 0; /* Posicionamos la cabecera pegada arriba */
+  /*position: fixed; /* Hacemos que la cabecera tenga una posición fija
+ } */
+
+
+
+    body {
+      margin: 0;
+      padding: 0;
+      color: rgb(255, 255, 255);
+      background: #f2f2f2; 
+    }
+    
+    
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    #main-content {
+      background: white;
+      width: 90%;
+      max-width: 800px;
+      margin: 20px auto;
+      box-shadow: 0 0 10px rgba(0,0,0,.1);
+    }
+    
+      #main-content header,
+      #main-content .content {
+        padding: 40px;
+      }
+
+
+      .boton {
+        border: 1px solid #fadfff; /*anchura, estilo y color borde*/
+        padding: 10px; /*espacio alrededor texto*/
+        background-color: #ffd6fc; /*color botón*/
+        color: #ffffff; /*color texto*/
+        text-decoration: none; /*decoración texto*/
+        text-transform: uppercase; /*capitalización texto*/
+        font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+        border-radius: 50px; /*bordes redondos*/
+        } 
+
